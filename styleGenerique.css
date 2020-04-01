@@ -1,0 +1,66 @@
+body {
+    background-size: cover;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    background-color: #8FBC8F;
+}
+
+#idTitreParPro {
+    text-align: center;
+    font-family: Verdana, Tahoma;
+    color: black;
+    margin-top: 0%;
+    font-size: 400%;
+    background-image: url("img/pp_background.jpg");
+    background-size: cover;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.flot {
+    float: left;
+}
+
+#idParPro {
+    font-family: verdana;
+    background-color: #556B2F;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+
+#textLogo {
+    text-align: justify;
+    padding-left: 0%;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding-bottom: 3%;
+}
+
+#imgLogo {
+    height: 40%;
+    width: 70%;
+    margin-right: 0%;
+    margin-left: 14%;
+    padding-right: 0%;
+}
+
+#pImgLogo {
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 60%;
+    height: 80%;
+}
+
+#imgSep {
+    width: 10%;
+    height: 10%;
+    margin-left: 41%;
+}
+
+#idSeparator {
+    margin: -25%;
+    display: inline-flex;
+    margin-top: 0%;
+}
